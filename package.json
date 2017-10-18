@@ -40,5 +40,8 @@
   "bugs": {
     "url": "https://github.com/ornorm/hjs-io/issues"
   },
-  "homepage": "https://github.com/ornorm/hjs-io#readme"
+  "homepage": "https://github.com/ornorm/hjs-io#readme",
+  "dependencies": {
+    "hjs-core": "^1.0.0"
+  }
 }
