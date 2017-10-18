@@ -1,0 +1,44 @@
+{
+  "name": "hjs-io",
+  "version": "1.0.0",
+  "description": "IO classes for Hubrisjs framework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/hjs-io.git"
+  },
+  "keywords": [
+    "ByteBuffer",
+    "StringBuffer",
+    "InputStream",
+    "ByteArrayInputStream",
+    "FilterInputStream",
+    "BufferedInputStream",
+    "PushbackInputStream",
+    "StringBufferInputStream",
+    "SequenceInputStream",
+    "Reader",
+    "InputStreamReader",
+    "CharArrayReader",
+    "BufferedReader",
+    "FilterReader",
+    "PushbackReader",
+    "StringReader",
+    "StreamTokenizer",
+    "Writer",
+    "StringBufferWriter",
+    "StringWriter"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/hjs-io/issues"
+  },
+  "homepage": "https://github.com/ornorm/hjs-io#readme"
+}
